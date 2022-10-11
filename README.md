@@ -4,3 +4,4 @@ Olá! Seja bem vindo ao meu livro receitas que construí durante o curso de Git 
 
 - Strogonoff de Frango
 - Pavê (ou Pacumê 🤣)
+- Bolo de Cenoura
